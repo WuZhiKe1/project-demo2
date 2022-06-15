@@ -1,3 +1,3 @@
 window.addEventListtenter('load',function() {
 
-}）
+}
