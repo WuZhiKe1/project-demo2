@@ -1,3 +1,3 @@
-window.addEventListenter('load',function() {
-
+function f() {
+return
 }
